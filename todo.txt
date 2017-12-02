@@ -1,0 +1,10 @@
+Złożoność obliczeniowa
+
+Sortowanie:
+    bubblesort
+    insertionsort
+    selectionsort
+    quicksort
+    heapsort
+    countingsort
+    mergesort
